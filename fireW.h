@@ -1,4 +1,4 @@
-#pragma once
+ï»¿#pragma once
 #include "resource1.h"
 #include<easyx.h>
 #include<mmsystem.h>
@@ -9,17 +9,17 @@
 #include "winres.h"
 #pragma comment(lib,"winmm.lib")
 
-//ÑÌ»¨ÖÖÀà
+//çƒŸèŠ±ç§ç±»
 #define FIRE_NUM 13
 
-//´°¿Ú
+//çª—å£
 #define W_WIDTH 960
 #define W_HEIGHT 640
 
-//ÑÌ»¨½á¹¹
+//çƒŸèŠ±ç»“æ„
 struct FIRE;
 
-//×Óµ¯½á¹¹
+//å­å¼¹ç»“æ„
 struct JET;
 
 //
